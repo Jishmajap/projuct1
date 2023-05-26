@@ -1,0 +1,62 @@
+h1{
+    font-style: oblique;
+    font-weight: bolder;
+    font-size: 38px;
+    text-align: center;
+}
+
+p{
+    font-style: italic;
+    text-align: center;
+    
+}
+.font{
+    font-size: 25px;
+    font-family: 'Caveat', cursive;
+    font-style: italic;
+}
+.fontrep{
+    font-size: 21px;
+    font-family: 'Caveat', cursive;
+    font-style: italic;
+}
+.background{
+    background-color: cornsilk;
+    padding: 225px;
+
+
+}
+
+.but{
+    margin-left: 450px;
+}
+.list{
+width: 500px;
+  text-align-last: center;
+  float: right;
+  margin-right: 200px;
+  
+  margin-top: 100px;}
+  .imagesize{
+    margin-left: 100px;
+    margin-top: 100px;
+    float: left;
+  }
+  .row{
+    
+  }
+
+
+  .alignmenttop{
+    margin-top: 200px; 
+  }
+  .coo{
+    margin-left: 50px;
+    
+    margin-bottom: 50px;
+    background-color: cornsilk;
+    padding: 200px;
+  }
+  .alignments{
+    margin-top: 150px;
+  }
